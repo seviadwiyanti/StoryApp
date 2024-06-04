@@ -1,0 +1,13 @@
+ [
+   {
+     "elementType": "geometry.stroke",
+     "stylers": [
+       {
+         "color": "#c2a0e3"
+       },
+       {
+         "weight": 2
+       }
+     ]
+   }
+ ]
